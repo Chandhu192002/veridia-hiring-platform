@@ -1,2 +1,0 @@
-# veridia-hiring-platform
-website
